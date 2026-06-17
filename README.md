@@ -50,7 +50,7 @@ The project includes:
 
 ## Demo Output
 
-![Demo](confidence level.png)
+![Demo](confidence%20level.png)
 
 ---
 
